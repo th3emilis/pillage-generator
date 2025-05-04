@@ -3,6 +3,7 @@
 When sharing **Pillage Generator (Outpost Generator)** with others (i.e., messages, internet posts, video descriptions, etc.), please do not use the direct download link or any user-generated link to the add-on. Instead, use one of the following official links:
 - https://mcpedl.com/pillage-generator-function-pack
 - https://curseforge.com/minecraft-bedrock/addons/pillage-generator-function-pack
+- https://planetminecraft.com/mod/pillage-generator
 - https://github.com/th3emilis/pillage-generator
 
 > [!IMPORTANT]
