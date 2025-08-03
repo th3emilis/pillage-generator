@@ -2,6 +2,11 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.1.0 - 03 August 2025
+
+- The chest in the watchtower now generates with random loot.
+- Minor tweaks and improvements.
+
 ## 2.0.0 - 19 April 2025
 
 - Structures now generate in the cardinal direction the player is facing.
