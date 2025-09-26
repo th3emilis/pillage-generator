@@ -2,6 +2,12 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.2.0 - 26 September 2025
+
+### Changed
+- Instant Pillager Outposts now generate on the highest non-air block beneath the player, emulating the behavior of the /place command
+- Instant Pillager Outposts are now populated at the top level of the watchtower after all individual structures have been generated, preventing mobs from suffocating or getting stuck inside structures
+
 ## 2.1.0 - 03 August 2025
 
 - The chest in the watchtower now generates with random loot.
